@@ -1,0 +1,11 @@
+id,paragraph_text
+1,"The graphics processing units (GPUs) have more cores than Central processing units (CPUs) and therefore, when it comes to parallel data computing, GPUs perform exceptionally effectively than CPUs even though GPUs possess lower clock speeds and lack so many core management features when compared to CPUs."
+2,"The speed of the clock is the rate at which the processor can accomplish the processing cycle. It is usually measured in megahertz or gigahertz. One megahertz is equivalent to one million cycles per second, while one gigahertz is equivalent to one billion cycles per second."
+3,"Haha, well, it should be observed that for the processing of a set of data with GPU, the data will first be transmitted to the GPU memory, which may require additional time so that, if the data set is small, the CPU can perform much better than the GPU."
+4,"Here in this picture, you can see that at the initial computation GPU has cost much computational time than CPU. This is due to the explanation given above."
+5,"CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing of graphical processing units (GPUs).
+But why CUDA?
+CUDA brings together a number of things:
+Massively parallel hardware built to operate generic (non-graphic) code, with the proper drivers to do so."
+6,C-based programming language for programming said hardware and an assembly language that other programming languages can use as a target.
+7,"An application development kit that includes libraries, various debugging, profiling, and compiling tools, and bindings that allow CPU-side programming languages to invoke GPU-side code."
